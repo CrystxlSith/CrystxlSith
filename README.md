@@ -43,7 +43,7 @@ Co-founder & lead dev of **[Glasck.gg](https://glasck.gg)**, a League of Legends
 </p>
 <p>
   <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,redis&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,redis&theme=dark" alt="Backend" /><img src="https://raw.githubusercontent.com/CrystxlSith/CrystxlSith/main/assets/bullmq.png" height="48" alt="BullMQ" />
 </p>
 <p>
   <b>Frontend</b><br/>
