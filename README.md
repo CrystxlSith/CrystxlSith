@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://joaquimpfeiffer.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Seeking+a+6-month+internship+or+1-year+apprenticeship;Available+from+2027+%C2%B7+based+near+Paris;Co-founder+%26+lead+dev+%40+Glasck.gg;Student+at+42+Paris;Building+with+Claude+Code%2C+from+prototype+to+prod" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Seeking+a+6-month+internship+or+1-year+apprenticeship;Available+from+2027+%C2%B7+based+near+Paris;Co-founder+%26+lead+dev+%40+Glasck.gg;Student+at+42+Paris" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,24 +20,9 @@
 
 ## 🚀 Glasck.gg
 
-Esports platform for League of Legends: pro match stats, ranked players, champion meta and predictions. Team of 2 devs, 1 DevOps and 1 marketer.
+Co-founder & lead dev of **[Glasck.gg](https://glasck.gg)**, a League of Legends esports platform in production since 2024 (80M requests/month, 14 languages).
 
-<table align="center">
-  <tr>
-    <td align="center"><h3>80M</h3>requests / month</td>
-    <td align="center"><h3>360k</h3>indexed pages</td>
-    <td align="center"><h3>14</h3>languages</td>
-    <td align="center"><h3>187M</h3>rows in the largest Postgres table</td>
-  </tr>
-</table>
-
-- **Distributed Riot API rate limiter**: Redis buckets shared across processes, user requests served before background jobs, Grafana dashboard
-- **Postgres at scale**: ~50 GB reclaimed on a 90 GB table (primary key inversion, redundant indexes), hottest query from 130 ms to 3.3 ms
-- **Data pipeline**: 37 BullMQ queues, batched match ingestion, a job cut from 1,240 s to 55 s
-- **Production incident**: a relative link created an infinite URL space × 14 languages, crawlers flooded the app into OOM; fixed in code (404 on deep URLs, regression test) and infra (replicas, real-IP rate limiting)
-- **Technical SEO**: sitemap worker, hreflang, JSON-LD, backend-driven ISR invalidation, `llms.txt` and Markdown served to AI agents
-
-`Fastify 5` `TypeScript` `Prisma` `PostgreSQL` `Redis` `BullMQ` `OpenTelemetry` `Next.js 16` `React 19` `Tailwind 4` `Docker` `Traefik` `Prometheus` `Grafana` `Loki` `GitHub Actions`
+`Fastify` `Next.js` `PostgreSQL` `Redis` `Docker`
 
 ## 🛠️ Projects
 
