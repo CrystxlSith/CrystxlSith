@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:22D3EE&height=220&section=header&text=Joaquim%20Pfeiffer&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%2042%20Paris&descSize=20&descAlignY=58&animation=fadeIn" alt="Joaquim Pfeiffer" />
-</p>
-
-<p align="center">
   <a href="https://joaquimpfeiffer.dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Seeking+a+6-month+internship+or+1-year+apprenticeship;Available+from+2027+%C2%B7+based+near+Paris;Co-founder+%26+lead+dev+%40+Glasck.gg;Student+at+42+Paris;Building+with+Claude+Code%2C+from+prototype+to+prod" alt="Typing SVG" />
   </a>
@@ -56,19 +52,19 @@ Esports platform for League of Legends: pro match stats, ranked players, champio
 
 ## 🧰 Tech stack
 
-<p align="center">
+<p>
   <b>Languages</b><br/>
   <img src="https://skillicons.dev/icons?i=ts,c,cpp,py,bash&theme=dark" alt="Languages" />
 </p>
-<p align="center">
+<p>
   <b>Backend</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,redis&theme=dark" alt="Backend" />
 </p>
-<p align="center">
+<p>
   <b>Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,figma&theme=dark" alt="Frontend" />
 </p>
-<p align="center">
+<p>
   <b>DevOps & tooling</b><br/>
   <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,githubactions,ansible,prometheus,grafana,linux,git,pnpm,vitest&perline=11&theme=dark" alt="DevOps and tooling" />
 </p>
