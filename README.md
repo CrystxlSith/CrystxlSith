@@ -28,7 +28,7 @@ Co-founder & lead dev of **[Glasck.gg](https://glasck.gg)**, a League of Legends
 
 | Project | Stack | What it is |
 |---|---|---|
-| [ft_transcendence](https://github.com/CrystxlSith/Transcende_me_if_you_can) | TypeScript · Fastify · WebSocket | Real-time multiplayer Pong SPA: chat, tournaments, AI opponent, OAuth + 2FA, Prometheus/Grafana, ELK |
+| [ft_transcendence](https://github.com/CrystxlSith/ft_transcendence) | TypeScript · Fastify · WebSocket | Real-time multiplayer Pong SPA: chat, tournaments, AI opponent, OAuth + 2FA, Prometheus/Grafana, ELK |
 | [webserv](https://github.com/CrystxlSith/webserv) | C++98 | Non-blocking HTTP/1.1 server: single epoll loop, nginx-style config, virtual hosts, CGI, chunked, keep-alive |
 | [Inception](https://github.com/CrystxlSith/Inception) | Docker | NGINX (TLS 1.3), WordPress/PHP-FPM and MariaDB, images built from Debian, Docker secrets |
 | [Minishell](https://github.com/CrystxlSith/Minishell) | C | Unix shell: lexer, parser, builtins, pipes, redirections, heredoc, signals |
